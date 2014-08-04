@@ -27,6 +27,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 
 /**
+ * GamePlay Class
  * Created by muhd7rosli on 8/5/2014.
  */
 public class GamePlay extends Application {
